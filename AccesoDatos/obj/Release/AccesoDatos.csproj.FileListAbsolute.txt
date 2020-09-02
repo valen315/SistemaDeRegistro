@@ -1,0 +1,6 @@
+C:\Users\pc\Downloads\AbmRegistro\AccesoDatos\bin\Release\AccesoDatos.dll
+C:\Users\pc\Downloads\AbmRegistro\AccesoDatos\bin\Release\AccesoDatos.pdb
+C:\Users\pc\Downloads\AbmRegistro\AccesoDatos\obj\Release\AccesoDatos.csprojAssemblyReference.cache
+C:\Users\pc\Downloads\AbmRegistro\AccesoDatos\obj\Release\AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\pc\Downloads\AbmRegistro\AccesoDatos\obj\Release\AccesoDatos.dll
+C:\Users\pc\Downloads\AbmRegistro\AccesoDatos\obj\Release\AccesoDatos.pdb
